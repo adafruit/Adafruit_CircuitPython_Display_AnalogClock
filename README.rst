@@ -2,8 +2,8 @@ Introduction
 ============
 
 
-.. image:: https://readthedocs.org/projects/adafruit-circuitpython-display-analogclock/badge/?version=latest
-    :target: https://docs.circuitpython.org/projects/display_analogclock/en/latest/
+.. image:: https://readthedocs.org/projects/adafruit-circuitpython-analog-clock/badge/?version=latest
+    :target: https://docs.circuitpython.org/projects/display-analogclock/en/latest/
     :alt: Documentation Status
 
 
