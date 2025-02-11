@@ -139,7 +139,7 @@ class AnalogClock(Group):
         Set the hour and minute hands to the appropriate angles
         based on the given time.
 
-        :param hour: The hour to set 0-12
+        :param hour: The hour to set 0-23
         :param minute: The minute to set 0-59
         :return: None
         """

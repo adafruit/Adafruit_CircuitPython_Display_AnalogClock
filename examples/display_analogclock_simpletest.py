@@ -3,7 +3,7 @@
 
 """
 Demonstration of AnalogClock display widget.
-Iniaitialize a clock, show it on the display and set it
+Initialize a clock, show it on the display and set it
 to show a specific time.
 
 Intended to run on devices with a built-in display.
